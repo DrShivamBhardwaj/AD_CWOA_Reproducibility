@@ -1,0 +1,10 @@
+Title: AD-CWOA Reproducibility Package
+Version: 1.0.0
+Release date: 2026-09-27
+Creators:
+- Shivam Bhardwaj (ORCID: 0009-0005-4554-7397)
+- Jitendra Nath Srivastava
+- Akash Sanghi
+Repository: https://github.com/DrShivamBhardwaj/AD_CWOA_Reproducibility
+Scope: code, recovered dataset materials, verified outputs, and the final experiment master specification.
+Limitation: this release does not claim a complete raw archive of all 300 simulations; the full raw final five-method archive was not independently recovered and re-verified.
