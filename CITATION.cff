@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated AD-CWOA study and this software release."
+title: "AD-CWOA Reproducibility Package"
+type: software
+version: "1.0.0"
+date-released: "2026-09-27"
+authors:
+  - family-names: "Bhardwaj"
+    given-names: "Shivam"
+    orcid: "https://orcid.org/0009-0005-4554-7397"
+  - family-names: "Srivastava"
+    given-names: "Jitendra Nath"
+  - family-names: "Sanghi"
+    given-names: "Akash"
+repository-code: "https://github.com/DrShivamBhardwaj/AD_CWOA_Reproducibility"
